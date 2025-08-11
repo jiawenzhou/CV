@@ -20,6 +20,7 @@ We compare 15 SLR-constrained banks with 18 size-matched peers using a bank–co
 - Manuscript in progress
 
 ## Repository Structure
-- `do_files/`: Stata scripts for data processing and regression
-- `regression_results.xlsx`: summary tables
-- `raw_data_description.txt`: data sources and definitions
+- `Result: SLR Effect on Loan Number.xlsx`: reggression result on loan number
+- `Result: SLR Effect on Loan Amount.xlsx`: reggression result on loan amount
+- `SLR cleaning.do`: data cleaning do file
+- `SLR regression.do`: reggression do file 
