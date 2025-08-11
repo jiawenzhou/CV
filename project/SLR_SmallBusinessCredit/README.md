@@ -11,7 +11,7 @@ We compare 15 SLR-constrained banks with 18 size-matched peers using a bank–co
 - Variables: number of loans, loan amount by size category (<$100k, $100–250k, $250k–1m)
 
 ## Methodology
-- Difference-in-Differences (DiD) with bank-year and county-year fixed effects
+- Difference-in-Differences (DiD) with bank and county-year fixed effects
 - Standard errors clustered at the bank level
 
 ## Current Status
